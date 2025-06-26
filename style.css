@@ -2,4 +2,9 @@ body{
     background-color: rgb(194, 1, 1); /* cor de fundo */
 color: #222121;
 font-family: cursive;
+margin: 0px;
+}
+
+header{
+border-bottom; solid 2px rgb(255, 255, 255)
 }
