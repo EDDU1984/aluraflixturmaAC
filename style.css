@@ -16,7 +16,8 @@ h1{
     font-family: 'Times New Roman', Times, serif;
 
 }
-p {font-style: italic;
+p{
+    font-style: italic;
 
 }
 
@@ -24,5 +25,8 @@ section {
     background: black;
     padding-top: 80px;
     padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    
 
 }
