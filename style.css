@@ -31,14 +31,14 @@ section {
 
 }
 
-.chamada-texto{
+chamada-texto{
    margin-right: 5%;
 }
 
 img{
     height: 200px;
 }
-.categoria-videos{
+categoria-videos{
     display: flex;
     overflow: auto;
     gap: 10px;
